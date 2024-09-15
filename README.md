@@ -49,22 +49,22 @@ This project demonstrates the implementation of a Library Management System usin
 **Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_count**
 --Objective: Generating new table with Select statemnet by joining tables.
 
-**Task 7. Retrieve All Books in a Specific Category:
+**Task 7. Retrieve All Books in a Specific Category:**
 --Objective: Retrieve all data from books table where cook category is 'classic'.
 
-**Task 8: Find Total Rental Income by Category:
+**Task 8: Find Total Rental Income by Category:**
 --Objective: Find the Toatal rental inncome.
 
-**Task 9: List Employees with Their Branch Manager's Name and their branch details:
+**Task 9: List Employees with Their Branch Manager's Name and their branch details:**
 --Objective: Retrieve all data of employess and thier branch managers.
 
-**Task 10: Create a Table of Books with Rental Price Above a Certain Threshold $7.
+**Task 10: Create a Table of Books with Rental Price Above a Certain Threshold $7.**
 --Objective: Retrieve all data from books where rental price is greater than $7.
 
-**Task 11: Retrieve the List of Books Not Yet Returned
+**Task 11: Retrieve the List of Books Not Yet Returned**
 --Objective: Retrieve all the list of Books Id those are not return yet.
 
-**Task 12: Find Employees with the Most Book Issues Processed
+**Task 12: Find Employees with the Most Book Issues Processed**
 --Objective: Write a query to find the top 3 employees who have processed the most book issues. Display the employee name, number of books processed, and their branch.
 
 ## Reports
