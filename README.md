@@ -45,6 +45,7 @@ This project demonstrates the implementation of a Library Management System usin
 -- Objective: Use GROUP BY to find members who have issued more than one book.
 
 **Create Table as Select
+
 **Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_count**
 --Objective: Generating new table with Select statemnet by joining tables.
 
